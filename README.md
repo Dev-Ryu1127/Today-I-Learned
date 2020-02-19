@@ -4,16 +4,26 @@ Daily Record about what I learned today
 -------------------
 
 ## Algorithm
-> Something
+
+> DFS
 
 ## Embedded Software
-> Something
+
+> NVMe Spec
 
 ## C++
-> Something
+
+> Object Oriented Programming
+
+
 
 ## iOS Develop
 > Base Code 
 >> Base?
 
+## Code Style
+
+> Clean Code
+
+> Coding Standard
 
