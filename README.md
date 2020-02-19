@@ -27,3 +27,17 @@ Daily Record about what I learned today
 
 > Coding Standard
 
+
+
+
+
+
+
+# Read a Book
+
+## Stock
+
+> 
+
+
+
