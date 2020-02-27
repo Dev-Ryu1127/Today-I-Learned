@@ -27,6 +27,9 @@ Daily Record about what I learned today
 
 > Coding Standard
 
+> Code Rule
+> * [헝가리안 표기법 ( Hungarian Notation )](README.md)
+
 
 
 
@@ -37,7 +40,13 @@ Daily Record about what I learned today
 
 ## Stock
 
-> 
+> 나의 월급 독립 프로젝트
+> * 
+
+
+
+
+
 
 
 
