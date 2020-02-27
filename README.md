@@ -27,7 +27,7 @@ Daily Record about what I learned today
 
 > Coding Standard
 
-###Code Rule
+### Code Rule
 > * [헝가리안 표기법 ( Hungarian Notation )](Code_Rule/Hungarian_Notation.md)
 
 
